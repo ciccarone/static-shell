@@ -19,7 +19,7 @@ Clone the git repository or download the zip file and then run **npm install** i
 
 ## Install
 
-Run the following command in the project root directory:
+Run the following command in the project's gulp directory:
 
     npm install
 
